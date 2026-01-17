@@ -1,0 +1,6 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/java:21",
+	"containerEnv": {
+		"TZ": "Asia/Kuala_Lumpur"
+	}
+}
