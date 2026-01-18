@@ -3,10 +3,11 @@
 ### Role
 
 1.	Login / User Registration, User Class creation and Data Storage -- LI YUCHEN
-2.	Welcome Page and Summary Page -- YANG YUTING
+2.	Welcome Page -- YANG YUTING
 3.	Journal Page -- LI ZHAOZIYU
 4.	Weather Value Extraction -- MENG HANYUE
 5.	Mood Classification Value Extraction -- CHEN YUHAN
+6.	Weekly Summary Page -- Tahzib Farhan
 
 ### Build and run
 1. Go to folder `SmartJournal/`
@@ -80,6 +81,5 @@ These objectives represent future enhancements to improve the project's usabilit
 - ✅Implement a robust password hashing algorithm (e.g., bcrypt, SHA-256) to replace the plaintext password storage, protecting user credentials.
 
 ### ✅Expanding Functionalities on Existing Features
-
 
 - ✅Create a mapping rule to map different possible values of the `weather_forecast` field to simpler English terms.
